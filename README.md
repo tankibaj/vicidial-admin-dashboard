@@ -27,3 +27,6 @@ Manage every call by storing call logs, view call lifetime metrics, and keep a t
 
 ### Abandoned Metrics
 Analyze abandoned calls and understand the reasons for abandonment to build a better phone journey
+
+### Listen live call
+Supervisor can listen agents and customers conversation live.
