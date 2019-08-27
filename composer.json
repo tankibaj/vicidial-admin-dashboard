@@ -1,0 +1,6 @@
+{
+    "require": {
+        "usmanhalalit/pixie": "^2.0",
+        "ashleydawson/simple-pagination": "^1.0"
+    }
+}
